@@ -12,68 +12,7 @@ README.txt
 /.metadata/
 weatherMap/.classpath
 weatherMap/.project
-weatherMap/.settings/org.eclipse.core.resources.prefs
-weatherMap/.settings/org.eclipse.jdt.core.prefs
-weatherMap/.settings/org.eclipse.m2e.core.prefs
+weatherMap/.settings/
 README.md
-weatherMap/test-output/ApiSearchFeatureSuite/Api Search Feature Test.html
-weatherMap/test-output/ApiSearchFeatureSuite/Api Search Feature Test.xml
-weatherMap/test-output/ApiSearchFeatureSuite/testng-failed.xml
-weatherMap/test-output/bullet_point.png
-weatherMap/test-output/collapseall.gif
-weatherMap/test-output/Default suite/Default test.html
-weatherMap/test-output/Default suite/Default test.xml
-weatherMap/test-output/Default suite/testng-failed.xml
-weatherMap/test-output/emailable-report.html
-weatherMap/test-output/failed.png
-weatherMap/test-output/index.html
-weatherMap/test-output/jquery-1.7.1.min.js
-weatherMap/test-output/junitreports/TEST-testModule.api.ApiSearchFeatureTest.xml
-weatherMap/test-output/junitreports/TEST-testModule.ApiSearchFeatureTest.xml
-weatherMap/test-output/junitreports/TEST-testModule.delete.xml
-weatherMap/test-output/junitreports/TEST-testModule.ui.UISearchFeatureTest.xml
-weatherMap/test-output/navigator-bullet.png
-weatherMap/test-output/old/ApiSearchFeatureSuite/Api Search Feature Test.properties
-weatherMap/test-output/old/ApiSearchFeatureSuite/classes.html
-weatherMap/test-output/old/ApiSearchFeatureSuite/groups.html
-weatherMap/test-output/old/ApiSearchFeatureSuite/index.html
-weatherMap/test-output/old/ApiSearchFeatureSuite/main.html
-weatherMap/test-output/old/ApiSearchFeatureSuite/methods-alphabetical.html
-weatherMap/test-output/old/ApiSearchFeatureSuite/methods-not-run.html
-weatherMap/test-output/old/ApiSearchFeatureSuite/methods.html
-weatherMap/test-output/old/ApiSearchFeatureSuite/reporter-output.html
-weatherMap/test-output/old/ApiSearchFeatureSuite/testng.xml.html
-weatherMap/test-output/old/ApiSearchFeatureSuite/toc.html
-weatherMap/test-output/old/Default suite/classes.html
-weatherMap/test-output/old/Default suite/Default test.properties
-weatherMap/test-output/old/Default suite/groups.html
-weatherMap/test-output/old/Default suite/index.html
-weatherMap/test-output/old/Default suite/main.html
-weatherMap/test-output/old/Default suite/methods-alphabetical.html
-weatherMap/test-output/old/Default suite/methods-not-run.html
-weatherMap/test-output/old/Default suite/methods.html
-weatherMap/test-output/old/Default suite/reporter-output.html
-weatherMap/test-output/old/Default suite/testng.xml.html
-weatherMap/test-output/old/Default suite/toc.html
-weatherMap/test-output/old/index.html
-weatherMap/test-output/old/PeopleAddingTestSuite/classes.html
-weatherMap/test-output/old/PeopleAddingTestSuite/groups.html
-weatherMap/test-output/old/PeopleAddingTestSuite/index.html
-weatherMap/test-output/old/PeopleAddingTestSuite/main.html
-weatherMap/test-output/old/PeopleAddingTestSuite/methods-alphabetical.html
-weatherMap/test-output/old/PeopleAddingTestSuite/methods-not-run.html
-weatherMap/test-output/old/PeopleAddingTestSuite/methods.html
-weatherMap/test-output/old/PeopleAddingTestSuite/People Adding Test.properties
-weatherMap/test-output/old/PeopleAddingTestSuite/reporter-output.html
-weatherMap/test-output/old/PeopleAddingTestSuite/testng.xml.html
-weatherMap/test-output/old/PeopleAddingTestSuite/toc.html
-weatherMap/test-output/passed.png
-weatherMap/test-output/PeopleAddingTestSuite/People Adding Test.html
-weatherMap/test-output/PeopleAddingTestSuite/People Adding Test.xml
-weatherMap/test-output/PeopleAddingTestSuite/testng-failed.xml
-weatherMap/test-output/skipped.png
-weatherMap/test-output/testng-failed.xml
-weatherMap/test-output/testng-reports.css
-weatherMap/test-output/testng-reports.js
-weatherMap/test-output/testng-results.xml
-weatherMap/test-output/testng.css
+weatherMap/test-output/
+
