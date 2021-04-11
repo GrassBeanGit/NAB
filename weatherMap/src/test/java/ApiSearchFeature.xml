@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<suite name="ApiSearchFeatureSuite">
+	<test name="Api Search Feature Test" parallel="none">
+		<classes>
+			<class name="testModule.api.ApiSearchFeatureTest" />
+		</classes>
+	</test>
+</suite>

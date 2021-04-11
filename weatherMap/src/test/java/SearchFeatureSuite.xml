@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="SEARCH FEATURE SUITE" parallel="none" verbose="2">
+	<suite-files>
+		<suite-file path="UISearchFeature.xml"></suite-file>
+		<suite-file path="ApiSearchFeature.xml"></suite-file>
+	</suite-files>
+</suite>

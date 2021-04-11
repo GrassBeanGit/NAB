@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="PeopleAddingTestSuite">
+	<test name="People Adding Test" parallel="none">
+		<parameter name="usageBrowserName" value="Chrome" />
+		<classes>
+			<class name="testModule.ui.UISearchFeatureTest" />
+		</classes>
+	</test>
+</suite>
